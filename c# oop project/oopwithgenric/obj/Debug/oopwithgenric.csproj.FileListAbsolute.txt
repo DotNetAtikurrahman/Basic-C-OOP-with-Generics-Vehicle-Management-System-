@@ -1,0 +1,14 @@
+C:\Users\Atikur Rahman\OneDrive\Desktop\1294236\solutionbyatikur\oopwithgenric\bin\Debug\oopwithgenric.exe.config
+C:\Users\Atikur Rahman\OneDrive\Desktop\1294236\solutionbyatikur\oopwithgenric\bin\Debug\oopwithgenric.exe
+C:\Users\Atikur Rahman\OneDrive\Desktop\1294236\solutionbyatikur\oopwithgenric\bin\Debug\oopwithgenric.pdb
+C:\Users\Atikur Rahman\OneDrive\Desktop\1294236\solutionbyatikur\oopwithgenric\obj\Debug\oopwithgenric.csproj.AssemblyReference.cache
+C:\Users\Atikur Rahman\OneDrive\Desktop\1294236\solutionbyatikur\oopwithgenric\obj\Debug\oopwithgenric.csproj.CoreCompileInputs.cache
+C:\Users\Atikur Rahman\OneDrive\Desktop\1294236\solutionbyatikur\oopwithgenric\obj\Debug\oopwithgenric.exe
+C:\Users\Atikur Rahman\OneDrive\Desktop\1294236\solutionbyatikur\oopwithgenric\obj\Debug\oopwithgenric.pdb
+D:\AZMAN sir onedrive  Resources for WADA\Module 003 C #\solutionbyatikur\oopwithgenric\bin\Debug\oopwithgenric.exe.config
+D:\AZMAN sir onedrive  Resources for WADA\Module 003 C #\solutionbyatikur\oopwithgenric\bin\Debug\oopwithgenric.exe
+D:\AZMAN sir onedrive  Resources for WADA\Module 003 C #\solutionbyatikur\oopwithgenric\bin\Debug\oopwithgenric.pdb
+D:\AZMAN sir onedrive  Resources for WADA\Module 003 C #\solutionbyatikur\oopwithgenric\obj\Debug\oopwithgenric.csproj.AssemblyReference.cache
+D:\AZMAN sir onedrive  Resources for WADA\Module 003 C #\solutionbyatikur\oopwithgenric\obj\Debug\oopwithgenric.csproj.CoreCompileInputs.cache
+D:\AZMAN sir onedrive  Resources for WADA\Module 003 C #\solutionbyatikur\oopwithgenric\obj\Debug\oopwithgenric.exe
+D:\AZMAN sir onedrive  Resources for WADA\Module 003 C #\solutionbyatikur\oopwithgenric\obj\Debug\oopwithgenric.pdb

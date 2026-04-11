@@ -1,0 +1,7 @@
+C:\Users\Atikur Rahman\OneDrive\Desktop\1294236\solutionbyatikur\basic c#\bin\Debug\basic c#.exe.config
+C:\Users\Atikur Rahman\OneDrive\Desktop\1294236\solutionbyatikur\basic c#\bin\Debug\basic c#.exe
+C:\Users\Atikur Rahman\OneDrive\Desktop\1294236\solutionbyatikur\basic c#\bin\Debug\basic c#.pdb
+C:\Users\Atikur Rahman\OneDrive\Desktop\1294236\solutionbyatikur\basic c#\obj\Debug\basic c#.csproj.AssemblyReference.cache
+C:\Users\Atikur Rahman\OneDrive\Desktop\1294236\solutionbyatikur\basic c#\obj\Debug\basic c#.csproj.CoreCompileInputs.cache
+C:\Users\Atikur Rahman\OneDrive\Desktop\1294236\solutionbyatikur\basic c#\obj\Debug\basic c#.exe
+C:\Users\Atikur Rahman\OneDrive\Desktop\1294236\solutionbyatikur\basic c#\obj\Debug\basic c#.pdb
